@@ -1,4 +1,4 @@
-# 🎨 RunwayMLOptiComunidad
+# 🎨 Runway ML Opti Comunidad
 
 ![Visitantes: 300K+](https://img.shields.io/badge/Visitantes-300K+-e74c3c) ![Miembros: 250K+](https://img.shields.io/badge/Miembros-250K+-6c5ce7) ![Establecida](https://img.shields.io/badge/Establecida-blue)
 
